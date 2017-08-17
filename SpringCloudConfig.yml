@@ -1,2 +1,3 @@
 config:
-  hello: Salaam
+  hello: ${random-word}
+#  hello: Salaam
